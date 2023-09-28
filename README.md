@@ -21,21 +21,15 @@ Here are some ideas to get you started:
 
 # 🖱️ Tools and Technologies
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />         
+<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-          
+<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
           
           
           
@@ -62,8 +56,9 @@ Here are some ideas to get you started:
 ![Counter Strike](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
 
 <br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=mariaisabelasn&rank_icon=github&theme=react&include_all_commits=true&count_private=true" height="150em" />        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariaisabelasn&theme=react" height="150em" /> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaisabelasn&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaisabelasn&theme=react)
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz1303&layout=compact&include_all_commits=true&count_private=true)
@@ -72,4 +67,5 @@ https://github.com/Ileriayo/markdown-badges
 https://github.com/alexandresanlim/Badges4-README.md-Profile#how-to-use
 https://gist.github.com/rxaviers/7360908
 https://github.com/anuraghazra
+https://devicon.dev/
  -->
