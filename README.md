@@ -58,7 +58,8 @@ Here are some ideas to get you started:
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=mariaisabelasn&rank_icon=github&theme=react&include_all_commits=true&count_private=true" height="150em" />        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariaisabelasn&theme=react" height="150em" /> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaisabelasn&theme=react)
+<img align-items:center justify-content:center src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaisabelasn&theme=react" />
+
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz1303&layout=compact&include_all_commits=true&count_private=true)
