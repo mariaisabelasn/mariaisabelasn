@@ -1,4 +1,4 @@
-# About Maria Isabela:
+# About me:
 
 <!--
 **mariaisabelasn/mariaisabelasn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💻 Computer Engineering Student - Universidade Tecnológica Federal do Paraná
+- 💻 Computer Engineering Student - Federal Technological University of Paraná
+- Exchange Student (Computer Science) - Otto-von-Guericke-University Magdeburg
 
 <br>
 
