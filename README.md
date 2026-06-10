@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💻 Computer Engineering Student - Federal Technological University of Paraná
-- Exchange Student (Computer Science) - Otto-von-Guericke-University Magdeburg
+- 💻 Computer Engineering Student - Federal Technological University of Paraná - Brazil
+- Exchange Student (Computer Science) - Otto-von-Guericke-University Magdeburg - Germany
 
 <br>
 
